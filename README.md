@@ -144,6 +144,5 @@ This project is open-source under the [MIT License](LICENSE).
 
 Feel free to ⭐️ this repo, open an [issue](https://github.com/devangi2004/Chat-Application/issues), or submit a [pull request](https://github.com/devangi2004/Chat-Application/pulls).
 
-```
 
 
