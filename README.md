@@ -1,10 +1,4 @@
-Here’s a professional and detailed `README.md` file for your [Chat Application GitHub repo](https://github.com/devangi2004/Chat-Application.git), based on the real-time chat app you’re building using **Node.js**, **Express**, and **Socket.IO**, styled like **WhatsApp Web** with features like typing indicators, online status, read/delivery receipts, and a day/night toggle.
-
----
-
-### 📄 `README.md`
-
-```markdown
+```
 # 💬 Real-Time Chat Application
 
 This is a real-time chat application built using **Node.js**, **Express**, and **Socket.IO**, with a frontend inspired by WhatsApp Web. It allows multiple users to chat live with features such as typing indicators, online/offline status, read/delivery receipts, and theme toggle (day/night mode).
