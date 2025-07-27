@@ -1,14 +1,3 @@
-Here’s a fully updated and professional `README.md` file for your real-time WhatsApp-style chat app, now including:
-
-* 🌟 Feature highlights
-* 📷 Screenshot links (as you provided)
-* 🛠️ Installation steps
-* 🚀 Live testing instructions
-
----
-
-### 📄 `README.md`
-
 ````markdown
 # 💬 Real-Time Chat Application
 
