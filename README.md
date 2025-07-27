@@ -1,4 +1,3 @@
-```
 # 💬 Real-Time Chat Application
 
 This is a real-time chat application built using **Node.js**, **Express**, and **Socket.IO**, with a frontend inspired by WhatsApp Web. It allows multiple users to chat live with features such as typing indicators, online/offline status, read/delivery receipts, and theme toggle (day/night mode).
