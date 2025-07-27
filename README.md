@@ -60,7 +60,9 @@ Chat-Application/
 
 | Chat Interface | Dark Mode |
 |----------------|-----------|
-| ![Light Mode](https://via.placeholder.com/300x200.png?text=Chat+Light+Mode) | ![Dark Mode](https://via.placeholder.com/300x200.png?text=Chat+Dark+Mode) |
+| ![Light Mode](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b310c9cf-2db2-4bf5-b858-0791ae8ebe65" />
+) | ![Dark Mode](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5ece8df3-4dc9-4d55-be9a-63e64145eedf" />
+) |
 
 ---
 
